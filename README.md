@@ -1,1 +1,1 @@
-# .prittierrc
+# model
